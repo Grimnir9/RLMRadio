@@ -1,0 +1,44 @@
+<center>
+<div style="text-align: center; width: 240px; border: 3px; border-style: ridge; border-color: black #3D3D3D #3D3D3D black; background-color: #66CCFF; -webkit-border-radius: 9px; -moz-border-radius: 9px; border-radius: 9px;">
+	<center><br>
+	<a href="https://www.reallibertymedia.com" target="_blank"><img height="81" width="81" style="border:3px solid blue;" src="https://www.reallibertymedia.com/images/RLM_Radio_150.png" alt="RLM Radio" /></a>
+	
+<br>
+
+<head>
+<style type="text/css">
+  @import url("https://www.reallibertymedia.com/channels/jplayer/radio9/MyButton.css");
+</style>
+</head>
+
+<!--<a class="myButton" href="https://www.reallibertymedia.com/channels/jplayer/radio9/NewRadio9a.html" target="RLMRadioFrame">Reload Radio</a>--> <br>
+<!-- <iframe name="RLMRadioFrame" src="https://www.reallibertymedia.com/channels/jplayer/radio9/NewRadio9a.html" scrolling="no" style="border:0" width="240" height="240" align="center"></iframe> -->
+<a class="myButton" target="_blank" title="Pop-Up the Radio in a window" class="ext" href="https://reallibertymedia.com/channels/rlm-radio.html" onclick="window.open (this.href, 'child_c', config='height=460,width=260, location=no, toolbar=no, menubar=no, scrollbars=no, resizable=no'); return false">Listen Live on RLM</a>
+<br /><br />
+<audio src='https://s3.voscast.com:10315/stream' style="width:220px;" controls='controls'></audio><br />
+<!--VosCast.com Flash Player-->
+<!--<script type="text/javascript" src="//cdn.voscast.com/player/? key=c61b805ff025e19020727c4da1965e04"></script>
+-->
+<!--End Player-->
+<br />
+
+<a class="myButton" href="https://tunein.com/station/?StationId=267480" target="_blank">Listen on Tune-In Radio</a>
+ <br />
+<!-- <a class="myButton" href="https://www.internet-radio.com/station/reallibertymedia/" target="_blank">Listen on Internet-Radio</a> -->
+	</center><br />
+	</div>
+<br />
+<div style="text-align: center; width: 220px; border: 3px; border-style: ridge; border-color: black #3D3D3D #3D3D3D black; background-color: #66CCFF; -webkit-border-radius: 9px; -moz-border-radius: 9px; border-radius: 9px;">
+<center>
+	<b>RLM Radio Android App</b>
+	<table><tr>
+	<td align="center" style="width: 105px;">
+	<a href="https://www.reallibertymedia.com/files/RLM-Radio.apk" alt="RLM-Radio for Android"><center><img height="100" width="100" src="https://www.reallibertymedia.com/images/RLM-Radio-QR-Code.png" alt="RLM-Radio for Android"><br><b>Android</b></center></a>
+	</td>
+	</tr></table>
+</center>
+</div><br />
+<center> 
+<iframe src="https://www.spreaker.com/embed/player/mini?autoplay=false&user_id=5818827" style="width: 99%; height: 71px;" frameborder="0" scrolling="no"></iframe>
+</center>
+</center>
